@@ -530,4 +530,4 @@ ScriptsOnlyBuild:
   platform: 20
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: E:/Unity_WebGL_Player/Unity_WebGL_Player/Web
+  playerPath: E:/Unity_WebGL_Player/Unity_WebGL_Player/Web2
